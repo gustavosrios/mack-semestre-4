@@ -3,10 +3,13 @@ Projeto Aplicado III - "Livros em Rede: Desvendando Recomendações Inteligentes
 
 Nome :  Gustavo Silva Rios
 RA : 10415824
+
 Nome :  Silas de Souza Ferreira
 RA: 10414793
+
 Nome : Israel Soares do N. Viana 
 RA: 10414894
+
 Nome : Danilo Brito da Silva
 RA: 10415882
 
