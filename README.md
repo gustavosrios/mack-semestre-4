@@ -1,16 +1,17 @@
 Universidade Presbiteriana Mackenzie
 Projeto Aplicado III - "Livros em Rede: Desvendando Recomendações Inteligentes".
+Alunos:
 
-Nome :  Gustavo Silva Rios
+Gustavo Silva Rios
 RA : 10415824
 
-Nome :  Silas de Souza Ferreira
+Silas de Souza Ferreira
 RA: 10414793
 
-Nome : Israel Soares do N. Viana 
+Israel Soares do N. Viana 
 RA: 10414894
 
-Nome : Danilo Brito da Silva
+Danilo Brito da Silva
 RA: 10415882
 
 Link da Apresentação em Vídeo: https://youtu.be/sGOIuVImT0c 
