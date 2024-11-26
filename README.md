@@ -1,7 +1,6 @@
 Universidade Presbiteriana Mackenzie
-Projeto Aplicado III - "Livros em Rede: Desvendando Recomendações Inteligentes".
 
-Alunos:
+Projeto Aplicado III - "Livros em Rede: Desvendando Recomendações Inteligentes".
 
 Gustavo Silva Rios
 RA : 10415824
